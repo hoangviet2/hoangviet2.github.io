@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: "Chắc bay mệt lắm phải hong nè 👉👈. Để mình mang cho bạn chút ngọt ngào nhaaaa",
-  text3: "Hi, nói sao nhỉ có lẽ mình biết cậu từ đầu năm lớp 10 òi tại mình thấy bạn là bạn của TMin và bạn cũng rất xinh nhưng mà lúc đó mình cũng chỉ vừa mới có cảm tình với bạn hoi. Rồi năm lớp 10 qua đi mình cũng bận bịu với việc học rồi thi tuyển hsg này nọ nhưng mà tớ vẫn theo dõi cậu và tìm hiểu thêm về cậu. Sau khi nói chiện với cậu thì mình thấy mình thực sự thích cậu 🥰.",
+  text2: "Em đang làm gì ấy 🧐. Dành xíu thời gian làm cái này nè",
+  text3: "Hi, nói sao nhỉ 🥺 có lẽ mọi thứ đã được sắp xếp từ trc rồi á mình xa nhau rồi lại tìm đến nhau =))))",
   text4: "Cậu có thể trở thành bạn gái mình hong 🥺 Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
   text5: "Cậu mơ à???",
   text6: "Yêu ơi là yêu ❤️",
