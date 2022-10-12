@@ -8,7 +8,7 @@ const textConfig = {
   text7: "lí do em thích anh đi :vvvv",
   text8: "Gửi cho tớ <3",
   text9: "Vì anh đẹp try vlllll, học dỏi nựa",
-  text10: "Tớ biết mà ^^ Yêu em 300.000",
+  text10: "Anh biết mà ^^ Yêu em 300.000",
   text11:
     "Mốt gặp nhau làm trend này nhaaa: https://www.tiktok.com/@letrucphuong1003/video/7017781401529486618?is_from_webapp=1&sender_device=pc",
   text12: "Okii lunn <3",
